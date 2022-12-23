@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2de28ae-94c3-4d27-8fb4-719735db68bb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Day 22 /pong-game/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day 22 /pong-game/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 22 /pong-game/.idea/pong-game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day 22 /pong-game/.idea/pong-game.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 22 /pong-game/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day 22 /pong-game/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 25/us-states-game/states_to_learn.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day 25/us-states-game/states_to_learn.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +25,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/azeezat.bolaji/Desktop/100-Days-of-Code-Python-Course-Challenges-Beginner-to-Expert/Day 23/turtle-crossing"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
